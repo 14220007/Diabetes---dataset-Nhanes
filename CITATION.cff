@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Apabila menggunakan kode atau data ini, mohon sitasi sebagai berikut."
+title: "Prediksi Diabetes Belum Terdiagnosis Berbasis Fitur Non-Laboratorium: Validasi Temporal Lintas Siklus NHANES 2013–2023 (kode dan data)"
+authors:
+  - family-names: Rumintarsih
+    given-names: Ade
+    affiliation: "Universitas Nusa Mandiri"
+date-released: 2026-10-07
+version: 1.0.0
+license: MIT
+keywords:
+  - undiagnosed diabetes
+  - machine learning
+  - NHANES
+  - temporal validation
+  - non-laboratory screening
